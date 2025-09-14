@@ -1,4 +1,8 @@
-### 1 Endpoints do Projeto
+### 1 Como "rodar" o projeto
+pnpm dev ou npm run dev - Abrir localhost de desenvolvimento
+pnpm build ou npm run build - Para buildar o projeto
+
+### 1.1 Endpoints do Projeto
 O projeto foi dividido em rotas para cada etapa do desafio, utilize esses endpoints no navegador, ou navegue pelo menu inicial:
 
 - **`/`** - Página inicial com navegação para todas as funcionalidades
