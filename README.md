@@ -12,7 +12,7 @@ O projeto foi dividido em rotas para cada etapa do desafio, utilize esses endpoi
 - **`/calculoJurosCompostos`** - Calculadora de juros compostos  
 - **`/valorPresente`** - Calculadora de valor presente
 
-### 1.1 Tecnologias Utilizadas
+### 1.2 Tecnologias Utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 
