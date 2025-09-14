@@ -1,4 +1,5 @@
 ### 1 Como "rodar" o projeto
+- pnpm i ou npm install - Instalar dependências do node
 - pnpm dev ou npm run dev - Abrir localhost de desenvolvimento
 - pnpm build ou npm run build - Para buildar o projeto
 
